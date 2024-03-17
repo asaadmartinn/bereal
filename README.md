@@ -1,10 +1,10 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *Be Real Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **Amir Bredy**
 
-**Name of your app** is an app that ... [TODO] 
+**Be Real Clone ** is an app that ... Clones BeReal!
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
