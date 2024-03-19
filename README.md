@@ -30,7 +30,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+<div>
+    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
+      <p>Loom Message - 18 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d89ef5c1545243e08ffbbeefd1f7945a-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
