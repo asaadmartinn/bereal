@@ -30,7 +30,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d89ef5c1545243e08ffbbeefd1f7945a?sid=f43c313e-4807-4414-958a-dab090b97fd3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
+      <p>Loom Message - 18 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d89ef5c1545243e08ffbbeefd1f7945a-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
