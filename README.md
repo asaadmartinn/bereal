@@ -27,11 +27,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
-      <p>BeRealClone - Watch Video</p>
+    <a href="https://www.loom.com/share/f1ea787b984b43869703c90cdeb23128">
+      <p>BeReal App Project 6 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/d89ef5c1545243e08ffbbeefd1f7945a">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d89ef5c1545243e08ffbbeefd1f7945a-with-play.gif">
+    <a href="https://www.loom.com/share/f1ea787b984b43869703c90cdeb23128">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f1ea787b984b43869703c90cdeb23128-with-play.gif">
     </a>
   </div>
 
