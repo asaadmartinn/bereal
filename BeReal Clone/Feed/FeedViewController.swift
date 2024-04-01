@@ -1,29 +1,26 @@
 //  FeedViewController.swift
-//  BeRealClone
-//
+//  BeReal Clone
 //  Created by Amir on 2/29/24.
 
 import UIKit
 import ParseSwift
 
 class FeedViewController: UIViewController {
-
-    @IBOutlet weak var tableView: UITableView!
     
+    @IBOutlet weak var tableView: UITableView!
+
     private var posts = [Post]() {
         didSet {
             tableView.reloadData()
         }
     }
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
         tableView.delegate = self
         tableView.dataSource = self
         tableView.allowsSelection = false
     }
-
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
 
@@ -37,6 +34,7 @@ class FeedViewController: UIViewController {
             .order([.descending("createdAt")])
             .where("createdAt" >= yesterdayDate)
             .limit(10)
+
         query.find { [weak self] result in
             switch result {
             case .success(let posts):
@@ -45,13 +43,12 @@ class FeedViewController: UIViewController {
                 self?.showAlert(description: error.localizedDescription)
             }
         }
-
     }
 
     @IBAction func onLogOutTapped(_ sender: Any) {
         showConfirmLogoutAlert()
     }
-
+    
     private func showConfirmLogoutAlert() {
         let alertController = UIAlertController(title: "Log out of your account?", message: nil, preferredStyle: .alert)
         let logOutAction = UIAlertAction(title: "Log out", style: .destructive) { _ in
@@ -86,3 +83,4 @@ extension FeedViewController: UITableViewDataSource {
 }
 
 extension FeedViewController: UITableViewDelegate { }
+

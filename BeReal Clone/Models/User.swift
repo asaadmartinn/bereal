@@ -1,6 +1,5 @@
 //  User.swift
-//  BeRealClone
-//
+//  BeReal Clone
 //  Created by Amir on 2/29/24.
 
 import Foundation
@@ -12,10 +11,14 @@ struct User: ParseUser {
     var updatedAt: Date?
     var ACL: ParseACL?
     var originalData: Data?
+
     var username: String?
     var email: String?
     var emailVerified: Bool?
     var password: String?
     var authData: [String: [String: String]?]?
     var lastPostedDate: Date?
+
+ 
 }
+

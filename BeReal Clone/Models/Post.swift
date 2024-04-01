@@ -1,10 +1,10 @@
 //  Post.swift
-//  BeRealClone
+//  BeReal Clone
 //  Created by Amir on 2/29/24.
-
-
 import Foundation
 import ParseSwift
+
+
 
 struct Post: ParseObject {
     var objectId: String?

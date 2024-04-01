@@ -1,5 +1,5 @@
-//  DateFormatter+Extensions.swift
-//  BeRealClone
+//  DateFormatter+Extension.swift
+//  BeReal Clone
 //  Created by Amir on 2/29/24.
 
 import Foundation
