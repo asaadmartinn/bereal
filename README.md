@@ -4,7 +4,7 @@ Submitted by: **Amir Bredy**
 
 **Be Real Clone ** is an app that ... Clones BeReal!
 
-Time spent: **10** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
